@@ -1,5 +1,5 @@
 # iOS Storyboard Layout Challenge
-This iOS mobile application, developed for iOS devices, showcases a mastery of layout constraints and UI design principles. Utilizing storyboards, the application serves as a platform for practical implementation and experimentation with various layout techniques.
+This iOS mobile application, developed for iOS devices, showcases a mastery of layout constraints and UI design principles. Utilizing storyboards, the application was used for practical implementation and experimentation with various layout techniques.
 
 ## Key Features:
 - Layout Constraints: Explore the intricacies of layout constraints to achieve precise and dynamic UI arrangements.
